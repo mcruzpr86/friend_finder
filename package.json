@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mcruzpr86/friend_finder/issues"
   },
-  "homepage": "https://github.com/mcruzpr86/friend_finder#readme"
+  "homepage": "https://github.com/mcruzpr86/friend_finder#readme",
+  "dependencies": {
+    "init": "^0.1.2"
+  }
 }
